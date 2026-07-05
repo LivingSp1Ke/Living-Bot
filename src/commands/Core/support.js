@@ -3,7 +3,7 @@ import { createEmbed } from '../../utils/embeds.js';
 import { logger } from '../../utils/logger.js';
 
 import { InteractionHelper } from '../../utils/interactionHelper.js';
-const SUPPORT_SERVER_URL = "https://discord.gg/8aem5yxUs5";
+const SUPPORT_SERVER_URL = "https://youtu.be/QDia3e12czc?si=CkWcppfVazVGrhsb";
 export default {
     data: new SlashCommandBuilder()
     .setName("support")
