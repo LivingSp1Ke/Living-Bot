@@ -101,7 +101,7 @@ export async function createInitialHelpMenu(client) {
             },
             {
                 name: '\u200B',
-                `,
+                value: `-# ${botName} is [open source](https://youtu.be/QDia3e12czc?si=CkWcppfVazVGrhsb)`,
                 inline: false,
             },
         ],
